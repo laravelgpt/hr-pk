@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Package Manager",
+  "description": "An application to view, edit, and export a list of mobile packages. Users can modify package details like name, features, and price, and then download the list as a PNG image.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
